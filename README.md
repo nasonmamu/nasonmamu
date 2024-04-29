@@ -84,6 +84,12 @@
         height="30" 
         width="30" />
     </a>
+         <a href="https://medium.com/@nasonmamu94" target="blank">
+        <img align="center" 
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/medium.svg" 
+        alt="nasonmamu" 
+        height="30" 
+        width="30" />
 </details>
 </details>
 <br>
